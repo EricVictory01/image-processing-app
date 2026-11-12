@@ -2,7 +2,7 @@
 
 A lightweight web application built with **Python**, **Streamlit**, and **Pillow** that allows users to upload images, inspect their underlying NumPy array dimensions, resize them dynamically, and download the processed files directly from the browser.
 
-🔗 **Live Demo:** [Launch the App here](YOUR_STREAMLIT_APP_LINK_HERE)
+🔗 **Live Demo:** (https://image-processing-app-mgxubcrxmucfsc3c9ftqqu.streamlit.app/)
 
 ---
 
